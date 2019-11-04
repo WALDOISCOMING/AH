@@ -1,0 +1,17 @@
+.category-title  {
+    text-align: left;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 0.5rem 0.3rem;
+}
+
+.category-img-thumbnail {
+
+    padding: 0.25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    max-width: 50%;
+    height: auto;
+
+}
